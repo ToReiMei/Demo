@@ -13,8 +13,10 @@ public class DemoApplication extends Application {
         super.onCreate();
         //dev修改1
         //dev1开发
+        //devremote修改1
         //dev1开发2
         //dev修改2
+        //devremote修改2
     }
 
     @Override
