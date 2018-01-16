@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="zhang.sdf.zxc.com.demo">
 
+    //合并代码
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
